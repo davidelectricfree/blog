@@ -1,0 +1,2 @@
+# davidelectric.github.io
+blog
